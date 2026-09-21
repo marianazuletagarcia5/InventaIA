@@ -1,0 +1,5018 @@
+[
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Párvulos",
+    "cantidad": 9,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Prejardín",
+    "cantidad": 5,
+    "area": "ZAGALITOS",
+    "responsable": "MARIA ALEJANDRA ARIAS"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Jardín",
+    "cantidad": 6,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Transición A",
+    "cantidad": 5,
+    "area": "ZAGALITOS",
+    "responsable": "MANUELA MARIN"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Transición B",
+    "cantidad": 3,
+    "area": "ZAGALITOS",
+    "responsable": "MARITZABEL VILLARRAGA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Primero A",
+    "cantidad": 6,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA MEZA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Primero B",
+    "cantidad": 6,
+    "area": "ZAGALITOS",
+    "responsable": "YENY GRISALES"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Primero C",
+    "cantidad": 6,
+    "area": "ZAGALITOS",
+    "responsable": "ELIZABETH OSPINA - LUISA MARIA RESTREPO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Segundo A",
+    "cantidad": 6,
+    "area": "ZAGALITOS",
+    "responsable": "YAKELINE GALEANO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Segundo B",
+    "cantidad": 6,
+    "area": "ZAGALITOS",
+    "responsable": "YOHANA VAÑEMCOA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Tercero A",
+    "cantidad": 6,
+    "area": "ZAGALITOS",
+    "responsable": "BRAYAN RODRIGUEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Tercero B",
+    "cantidad": 6,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA ZAPATA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Tercero C",
+    "cantidad": 6,
+    "area": "ZAGALITOS",
+    "responsable": "NATALIA OROZCO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Cuarto A",
+    "cantidad": 8,
+    "area": "ZAGALES",
+    "responsable": "SOFIA HIDALGO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Cuarto B",
+    "cantidad": 7,
+    "area": "ZAGALES",
+    "responsable": "CATERINE GUERRERO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Cuarto C",
+    "cantidad": 8,
+    "area": "ZAGALES",
+    "responsable": "LEONARDO ARANGO LOAIZA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Cuarto D",
+    "cantidad": 8,
+    "area": "ZAGALES",
+    "responsable": "KAREN GALLEGO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Quinto A",
+    "cantidad": 8,
+    "area": "ZAGALES",
+    "responsable": "CLAUDIA ANDREA MORALES"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Quinto B",
+    "cantidad": 8,
+    "area": "ZAGALES",
+    "responsable": "MARIA ALEJANDRA AGUIRRE"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Quinto C",
+    "cantidad": 6,
+    "area": "ZAGALES",
+    "responsable": "CAMILO LONDOÑO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Sexto A",
+    "cantidad": 8,
+    "area": "ZAGALES",
+    "responsable": "ALEJANDRO ALVAREZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Sexto B",
+    "cantidad": 8,
+    "area": "ZAGALES",
+    "responsable": "SANDRA MILENA GOMEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Sexto C",
+    "cantidad": 8,
+    "area": "ZAGALES",
+    "responsable": "NICOL GARZÓN VASCO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Séptimo A",
+    "cantidad": 8,
+    "area": "ZAGALES",
+    "responsable": "DANIEL JIMENEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Séptimo B",
+    "cantidad": 8,
+    "area": "ZAGALES",
+    "responsable": "LIZETH HURTADO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Séptimo C",
+    "cantidad": 6,
+    "area": "ZAGALES",
+    "responsable": "DIANA YANETH VALENCIA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Octavo A",
+    "cantidad": 6,
+    "area": "ZAGALES",
+    "responsable": "TABATA ZULUAGA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Octavo B",
+    "cantidad": 6,
+    "area": "ZAGALES",
+    "responsable": "LAURA ALEJANDRA GONZÁLEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Octavo C",
+    "cantidad": 6,
+    "area": "ZAGALES",
+    "responsable": "CARLOS MARIO VILLALOBOS"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Noveno A",
+    "cantidad": 6,
+    "area": "JUVAM",
+    "responsable": "JHONATAN LINARES"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Noveno B",
+    "cantidad": 6,
+    "area": "JUVAM",
+    "responsable": "JUAN MANUEL CASTRO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Noveno C",
+    "cantidad": 6,
+    "area": "JUVAM",
+    "responsable": "VALENTINA CASTELLANOS"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Noveno D",
+    "cantidad": 6,
+    "area": "JUVAM",
+    "responsable": "STEFANY RAMIREZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Décimo A",
+    "cantidad": 9,
+    "area": "JUVAM",
+    "responsable": "TATIANA BUITRAGO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Décimo B",
+    "cantidad": 9,
+    "area": "JUVAM",
+    "responsable": "SEBASTIAN URBANO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Décimo C",
+    "cantidad": 12,
+    "area": "JUVAM",
+    "responsable": "ESTEFANIA GARCIA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Once A",
+    "cantidad": 6,
+    "area": "JUVAM",
+    "responsable": "MIGUEL ANGEL AYALA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Once B",
+    "cantidad": 6,
+    "area": "JUVAM",
+    "responsable": "JUAN DAVID RENDON"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Iluminación (Lámparas/Focos)",
+    "salon": "Once C",
+    "cantidad": 6,
+    "area": "JUVAM",
+    "responsable": "CAROLINA MIMENEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Baños",
+    "salon": "Párvulos",
+    "cantidad": 2,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Párvulos",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Prejardín",
+    "cantidad": 2,
+    "area": "ZAGALITOS",
+    "responsable": "MARIA ALEJANDRA ARIAS"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Jardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Transición A",
+    "cantidad": 3,
+    "area": "ZAGALITOS",
+    "responsable": "MANUELA MARIN"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Transición B",
+    "cantidad": 2,
+    "area": "ZAGALITOS",
+    "responsable": "MARITZABEL VILLARRAGA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Primero A",
+    "cantidad": 6,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA MEZA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Primero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YENY GRISALES"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Primero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ELIZABETH OSPINA - LUISA MARIA RESTREPO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Segundo A",
+    "cantidad": 6,
+    "area": "ZAGALITOS",
+    "responsable": "YAKELINE GALEANO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Segundo B",
+    "cantidad": 8,
+    "area": "ZAGALITOS",
+    "responsable": "YOHANA VAÑEMCOA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Tercero A",
+    "cantidad": 7,
+    "area": "ZAGALITOS",
+    "responsable": "BRAYAN RODRIGUEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Tercero B",
+    "cantidad": 6,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA ZAPATA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Tercero C",
+    "cantidad": 7,
+    "area": "ZAGALITOS",
+    "responsable": "NATALIA OROZCO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Cuarto A",
+    "cantidad": 2,
+    "area": "ZAGALES",
+    "responsable": "SOFIA HIDALGO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Cuarto B",
+    "cantidad": 2,
+    "area": "ZAGALES",
+    "responsable": "CATERINE GUERRERO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Cuarto C",
+    "cantidad": 2,
+    "area": "ZAGALES",
+    "responsable": "LEONARDO ARANGO LOAIZA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Cuarto D",
+    "cantidad": 2,
+    "area": "ZAGALES",
+    "responsable": "KAREN GALLEGO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Quinto A",
+    "cantidad": 2,
+    "area": "ZAGALES",
+    "responsable": "CLAUDIA ANDREA MORALES"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Quinto B",
+    "cantidad": 2,
+    "area": "ZAGALES",
+    "responsable": "MARIA ALEJANDRA AGUIRRE"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Quinto C",
+    "cantidad": 3,
+    "area": "ZAGALES",
+    "responsable": "CAMILO LONDOÑO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Sexto A",
+    "cantidad": 6,
+    "area": "ZAGALES",
+    "responsable": "ALEJANDRO ALVAREZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Sexto B",
+    "cantidad": 5,
+    "area": "ZAGALES",
+    "responsable": "SANDRA MILENA GOMEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Sexto C",
+    "cantidad": 6,
+    "area": "ZAGALES",
+    "responsable": "NICOL GARZÓN VASCO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Séptimo A",
+    "cantidad": 5,
+    "area": "ZAGALES",
+    "responsable": "DANIEL JIMENEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Séptimo B",
+    "cantidad": 5,
+    "area": "ZAGALES",
+    "responsable": "LIZETH HURTADO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Séptimo C",
+    "cantidad": 6,
+    "area": "ZAGALES",
+    "responsable": "DIANA YANETH VALENCIA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Octavo A",
+    "cantidad": 6,
+    "area": "ZAGALES",
+    "responsable": "TABATA ZULUAGA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Octavo B",
+    "cantidad": 6,
+    "area": "ZAGALES",
+    "responsable": "LAURA ALEJANDRA GONZÁLEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Octavo C",
+    "cantidad": 6,
+    "area": "ZAGALES",
+    "responsable": "CARLOS MARIO VILLALOBOS"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Noveno A",
+    "cantidad": 5,
+    "area": "JUVAM",
+    "responsable": "JHONATAN LINARES"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Noveno B",
+    "cantidad": 8,
+    "area": "JUVAM",
+    "responsable": "JUAN MANUEL CASTRO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Noveno C",
+    "cantidad": 7,
+    "area": "JUVAM",
+    "responsable": "VALENTINA CASTELLANOS"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Noveno D",
+    "cantidad": 7,
+    "area": "JUVAM",
+    "responsable": "STEFANY RAMIREZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Décimo A",
+    "cantidad": 3,
+    "area": "JUVAM",
+    "responsable": "TATIANA BUITRAGO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Décimo B",
+    "cantidad": 3,
+    "area": "JUVAM",
+    "responsable": "SEBASTIAN URBANO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Décimo C",
+    "cantidad": 3,
+    "area": "JUVAM",
+    "responsable": "ESTEFANIA GARCIA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Once A",
+    "cantidad": 3,
+    "area": "JUVAM",
+    "responsable": "MIGUEL ANGEL AYALA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Once B",
+    "cantidad": 7,
+    "area": "JUVAM",
+    "responsable": "JUAN DAVID RENDON"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Toma corriente",
+    "salon": "Once C",
+    "cantidad": 7,
+    "area": "JUVAM",
+    "responsable": "CAROLINA MIMENEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Párvulos",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Prejardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIA ALEJANDRA ARIAS"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Jardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Transición A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MANUELA MARIN"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Transición B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARITZABEL VILLARRAGA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Primero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA MEZA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Primero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YENY GRISALES"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Primero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ELIZABETH OSPINA - LUISA MARIA RESTREPO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Segundo A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YAKELINE GALEANO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Segundo B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YOHANA VAÑEMCOA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Tercero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "BRAYAN RODRIGUEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Tercero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA ZAPATA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Tercero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "NATALIA OROZCO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Cuarto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SOFIA HIDALGO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Cuarto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CATERINE GUERRERO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Cuarto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LEONARDO ARANGO LOAIZA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Cuarto D",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "KAREN GALLEGO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Quinto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CLAUDIA ANDREA MORALES"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Quinto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "MARIA ALEJANDRA AGUIRRE"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Quinto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CAMILO LONDOÑO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Sexto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "ALEJANDRO ALVAREZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Sexto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SANDRA MILENA GOMEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Sexto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "NICOL GARZÓN VASCO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Séptimo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DANIEL JIMENEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Séptimo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LIZETH HURTADO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Séptimo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DIANA YANETH VALENCIA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Octavo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "TABATA ZULUAGA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Octavo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LAURA ALEJANDRA GONZÁLEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Octavo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CARLOS MARIO VILLALOBOS"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Noveno A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JHONATAN LINARES"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Noveno B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN MANUEL CASTRO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Noveno C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "VALENTINA CASTELLANOS"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Noveno D",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "STEFANY RAMIREZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Décimo A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "TATIANA BUITRAGO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Décimo B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "SEBASTIAN URBANO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Décimo C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "ESTEFANIA GARCIA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Once A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "MIGUEL ANGEL AYALA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Once B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN DAVID RENDON"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Interruptor",
+    "salon": "Once C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "CAROLINA MIMENEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Párvulos",
+    "cantidad": 2,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Prejardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIA ALEJANDRA ARIAS"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Jardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Transición A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MANUELA MARIN"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Transición B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARITZABEL VILLARRAGA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Primero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA MEZA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Primero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YENY GRISALES"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Primero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ELIZABETH OSPINA - LUISA MARIA RESTREPO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Segundo A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YAKELINE GALEANO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Segundo B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YOHANA VAÑEMCOA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Tercero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "BRAYAN RODRIGUEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Tercero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA ZAPATA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Tercero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "NATALIA OROZCO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Cuarto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SOFIA HIDALGO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Cuarto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CATERINE GUERRERO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Cuarto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LEONARDO ARANGO LOAIZA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Cuarto D",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "KAREN GALLEGO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Quinto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CLAUDIA ANDREA MORALES"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Quinto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "MARIA ALEJANDRA AGUIRRE"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Quinto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CAMILO LONDOÑO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Sexto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "ALEJANDRO ALVAREZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Sexto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SANDRA MILENA GOMEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Sexto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "NICOL GARZÓN VASCO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Séptimo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DANIEL JIMENEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Séptimo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LIZETH HURTADO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Séptimo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DIANA YANETH VALENCIA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Octavo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "TABATA ZULUAGA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Octavo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LAURA ALEJANDRA GONZÁLEZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Octavo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CARLOS MARIO VILLALOBOS"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Noveno A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JHONATAN LINARES"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Noveno B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN MANUEL CASTRO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Noveno C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "VALENTINA CASTELLANOS"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Noveno D",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "STEFANY RAMIREZ"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Décimo A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "TATIANA BUITRAGO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Décimo B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "SEBASTIAN URBANO"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Décimo C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "ESTEFANIA GARCIA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Once A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "MIGUEL ANGEL AYALA"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Once B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN DAVID RENDON"
+  },
+  {
+    "categoria": "Infraestructura",
+    "nombre": "Llave puerta de acceso",
+    "salon": "Once C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "CAROLINA MIMENEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Párvulos",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Prejardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIA ALEJANDRA ARIAS"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Jardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Transición A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MANUELA MARIN"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Transición B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARITZABEL VILLARRAGA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Primero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA MEZA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Primero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ELIZABETH OSPINA - LUISA MARIA RESTREPO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Segundo A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YAKELINE GALEANO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Segundo B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YOHANA VAÑEMCOA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Tercero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "BRAYAN RODRIGUEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Tercero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA ZAPATA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Tercero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "NATALIA OROZCO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Cuarto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SOFIA HIDALGO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Cuarto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CATERINE GUERRERO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Cuarto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LEONARDO ARANGO LOAIZA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Cuarto D",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "KAREN GALLEGO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Quinto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CLAUDIA ANDREA MORALES"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Quinto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "MARIA ALEJANDRA AGUIRRE"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Quinto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CAMILO LONDOÑO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Sexto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "ALEJANDRO ALVAREZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Sexto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SANDRA MILENA GOMEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Sexto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "NICOL GARZÓN VASCO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Séptimo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DANIEL JIMENEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Séptimo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LIZETH HURTADO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Séptimo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DIANA YANETH VALENCIA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Octavo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "TABATA ZULUAGA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Octavo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LAURA ALEJANDRA GONZÁLEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Octavo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CARLOS MARIO VILLALOBOS"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Noveno A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JHONATAN LINARES"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Noveno B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN MANUEL CASTRO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Noveno C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "VALENTINA CASTELLANOS"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Noveno D",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "STEFANY RAMIREZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Décimo A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "TATIANA BUITRAGO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Décimo B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "SEBASTIAN URBANO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Décimo C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "ESTEFANIA GARCIA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Once A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "MIGUEL ANGEL AYALA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Once B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN DAVID RENDON"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Escritorio y silla docente",
+    "salon": "Once C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "CAROLINA MIMENEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Párvulos",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Prejardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIA ALEJANDRA ARIAS"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Jardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Transición A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MANUELA MARIN"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Transición B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARITZABEL VILLARRAGA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Primero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA MEZA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Primero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ELIZABETH OSPINA - LUISA MARIA RESTREPO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Segundo A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YAKELINE GALEANO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Segundo B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YOHANA VAÑEMCOA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Tercero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "BRAYAN RODRIGUEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Tercero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA ZAPATA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Tercero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "NATALIA OROZCO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Cuarto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CATERINE GUERRERO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Cuarto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LEONARDO ARANGO LOAIZA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Cuarto D",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "KAREN GALLEGO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Quinto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CLAUDIA ANDREA MORALES"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Quinto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "MARIA ALEJANDRA AGUIRRE"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Quinto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CAMILO LONDOÑO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Sexto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "ALEJANDRO ALVAREZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Sexto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SANDRA MILENA GOMEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Sexto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "NICOL GARZÓN VASCO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Séptimo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DANIEL JIMENEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Séptimo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LIZETH HURTADO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Séptimo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DIANA YANETH VALENCIA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Octavo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "TABATA ZULUAGA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Octavo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LAURA ALEJANDRA GONZÁLEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Octavo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CARLOS MARIO VILLALOBOS"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Noveno A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JHONATAN LINARES"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Noveno B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN MANUEL CASTRO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Noveno D",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "STEFANY RAMIREZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Décimo A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "TATIANA BUITRAGO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Décimo B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "SEBASTIAN URBANO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Décimo C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "ESTEFANIA GARCIA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Once A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "MIGUEL ANGEL AYALA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Once B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN DAVID RENDON"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero acrílico",
+    "salon": "Once C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "CAROLINA MIMENEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Tablero de icopor",
+    "salon": "Transición B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARITZABEL VILLARRAGA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Párvulos",
+    "cantidad": 14,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Prejardín",
+    "cantidad": 20,
+    "area": "ZAGALITOS",
+    "responsable": "MARIA ALEJANDRA ARIAS"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Jardín",
+    "cantidad": 44,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Transición A",
+    "cantidad": 17,
+    "area": "ZAGALITOS",
+    "responsable": "MANUELA MARIN"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Transición B",
+    "cantidad": 17,
+    "area": "ZAGALITOS",
+    "responsable": "MARITZABEL VILLARRAGA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Primero A",
+    "cantidad": 19,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA MEZA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Primero B",
+    "cantidad": 20,
+    "area": "ZAGALITOS",
+    "responsable": "YENY GRISALES"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Primero C",
+    "cantidad": 20,
+    "area": "ZAGALITOS",
+    "responsable": "ELIZABETH OSPINA - LUISA MARIA RESTREPO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Segundo A",
+    "cantidad": 22,
+    "area": "ZAGALITOS",
+    "responsable": "YAKELINE GALEANO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Segundo B",
+    "cantidad": 20,
+    "area": "ZAGALITOS",
+    "responsable": "YOHANA VAÑEMCOA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Tercero A",
+    "cantidad": 25,
+    "area": "ZAGALITOS",
+    "responsable": "BRAYAN RODRIGUEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Tercero B",
+    "cantidad": 25,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA ZAPATA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Tercero C",
+    "cantidad": 25,
+    "area": "ZAGALITOS",
+    "responsable": "NATALIA OROZCO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Cuarto A",
+    "cantidad": 21,
+    "area": "ZAGALES",
+    "responsable": "SOFIA HIDALGO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Cuarto B",
+    "cantidad": 20,
+    "area": "ZAGALES",
+    "responsable": "CATERINE GUERRERO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Cuarto C",
+    "cantidad": 20,
+    "area": "ZAGALES",
+    "responsable": "LEONARDO ARANGO LOAIZA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Cuarto D",
+    "cantidad": 20,
+    "area": "ZAGALES",
+    "responsable": "KAREN GALLEGO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Quinto A",
+    "cantidad": 26,
+    "area": "ZAGALES",
+    "responsable": "CLAUDIA ANDREA MORALES"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Quinto B",
+    "cantidad": 25,
+    "area": "ZAGALES",
+    "responsable": "MARIA ALEJANDRA AGUIRRE"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Quinto C",
+    "cantidad": 25,
+    "area": "ZAGALES",
+    "responsable": "CAMILO LONDOÑO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Sexto A",
+    "cantidad": 27,
+    "area": "ZAGALES",
+    "responsable": "ALEJANDRO ALVAREZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Sexto B",
+    "cantidad": 30,
+    "area": "ZAGALES",
+    "responsable": "SANDRA MILENA GOMEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Sexto C",
+    "cantidad": 26,
+    "area": "ZAGALES",
+    "responsable": "NICOL GARZÓN VASCO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Séptimo A",
+    "cantidad": 25,
+    "area": "ZAGALES",
+    "responsable": "DANIEL JIMENEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Séptimo B",
+    "cantidad": 22,
+    "area": "ZAGALES",
+    "responsable": "LIZETH HURTADO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Séptimo C",
+    "cantidad": 22,
+    "area": "ZAGALES",
+    "responsable": "DIANA YANETH VALENCIA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Octavo A",
+    "cantidad": 33,
+    "area": "ZAGALES",
+    "responsable": "TABATA ZULUAGA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Octavo B",
+    "cantidad": 34,
+    "area": "ZAGALES",
+    "responsable": "LAURA ALEJANDRA GONZÁLEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Octavo C",
+    "cantidad": 32,
+    "area": "ZAGALES",
+    "responsable": "CARLOS MARIO VILLALOBOS"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Noveno A",
+    "cantidad": 27,
+    "area": "JUVAM",
+    "responsable": "JHONATAN LINARES"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Noveno B",
+    "cantidad": 27,
+    "area": "JUVAM",
+    "responsable": "JUAN MANUEL CASTRO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Noveno C",
+    "cantidad": 23,
+    "area": "JUVAM",
+    "responsable": "VALENTINA CASTELLANOS"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Noveno D",
+    "cantidad": 26,
+    "area": "JUVAM",
+    "responsable": "STEFANY RAMIREZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Décimo A",
+    "cantidad": 28,
+    "area": "JUVAM",
+    "responsable": "TATIANA BUITRAGO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Décimo B",
+    "cantidad": 28,
+    "area": "JUVAM",
+    "responsable": "SEBASTIAN URBANO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Décimo C",
+    "cantidad": 40,
+    "area": "JUVAM",
+    "responsable": "ESTEFANIA GARCIA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Once A",
+    "cantidad": 45,
+    "area": "JUVAM",
+    "responsable": "MIGUEL ANGEL AYALA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Once B",
+    "cantidad": 45,
+    "area": "JUVAM",
+    "responsable": "JUAN DAVID RENDON"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Sillas (Estudiantes)",
+    "salon": "Once C",
+    "cantidad": 36,
+    "area": "JUVAM",
+    "responsable": "CAROLINA MIMENEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mesas (Estudiantes)",
+    "salon": "Párvulos",
+    "cantidad": 7,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mesas (Estudiantes)",
+    "salon": "Prejardín",
+    "cantidad": 11,
+    "area": "ZAGALITOS",
+    "responsable": "MARIA ALEJANDRA ARIAS"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mesas (Estudiantes)",
+    "salon": "Jardín",
+    "cantidad": 9,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mesas (Estudiantes)",
+    "salon": "Transición A",
+    "cantidad": 11,
+    "area": "ZAGALITOS",
+    "responsable": "MANUELA MARIN"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mesas (Estudiantes)",
+    "salon": "Transición B",
+    "cantidad": 10,
+    "area": "ZAGALITOS",
+    "responsable": "MARITZABEL VILLARRAGA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mesas (Estudiantes)",
+    "salon": "Primero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA MEZA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mesas (Estudiantes)",
+    "salon": "Sexto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "ALEJANDRO ALVAREZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Blackout (Cortinas)",
+    "salon": "Jardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Blackout (Cortinas)",
+    "salon": "Transición A",
+    "cantidad": 2,
+    "area": "ZAGALITOS",
+    "responsable": "MANUELA MARIN"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Blackout (Cortinas)",
+    "salon": "Transición B",
+    "cantidad": 3,
+    "area": "ZAGALITOS",
+    "responsable": "MARITZABEL VILLARRAGA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Blackout (Cortinas)",
+    "salon": "Quinto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CAMILO LONDOÑO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Blackout (Cortinas)",
+    "salon": "Sexto A",
+    "cantidad": 2,
+    "area": "ZAGALES",
+    "responsable": "ALEJANDRO ALVAREZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Blackout (Cortinas)",
+    "salon": "Sexto B",
+    "cantidad": 2,
+    "area": "ZAGALES",
+    "responsable": "SANDRA MILENA GOMEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Blackout (Cortinas)",
+    "salon": "Sexto C",
+    "cantidad": 2,
+    "area": "ZAGALES",
+    "responsable": "NICOL GARZÓN VASCO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Blackout (Cortinas)",
+    "salon": "Séptimo A",
+    "cantidad": 2,
+    "area": "ZAGALES",
+    "responsable": "DANIEL JIMENEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Blackout (Cortinas)",
+    "salon": "Séptimo B",
+    "cantidad": 2,
+    "area": "ZAGALES",
+    "responsable": "LIZETH HURTADO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Blackout (Cortinas)",
+    "salon": "Noveno C",
+    "cantidad": 3,
+    "area": "JUVAM",
+    "responsable": "VALENTINA CASTELLANOS"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Blackout (Cortinas)",
+    "salon": "Décimo A",
+    "cantidad": 2,
+    "area": "JUVAM",
+    "responsable": "TATIANA BUITRAGO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Blackout (Cortinas)",
+    "salon": "Décimo B",
+    "cantidad": 4,
+    "area": "JUVAM",
+    "responsable": "SEBASTIAN URBANO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Blackout (Cortinas)",
+    "salon": "Décimo C",
+    "cantidad": 4,
+    "area": "JUVAM",
+    "responsable": "ESTEFANIA GARCIA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Blackout (Cortinas)",
+    "salon": "Once A",
+    "cantidad": 4,
+    "area": "JUVAM",
+    "responsable": "MIGUEL ANGEL AYALA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Blackout (Cortinas)",
+    "salon": "Once B",
+    "cantidad": 4,
+    "area": "JUVAM",
+    "responsable": "JUAN DAVID RENDON"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Blackout (Cortinas)",
+    "salon": "Once C",
+    "cantidad": 4,
+    "area": "JUVAM",
+    "responsable": "CAROLINA MIMENEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Párvulos",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Prejardín",
+    "cantidad": 2,
+    "area": "ZAGALITOS",
+    "responsable": "MARIA ALEJANDRA ARIAS"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Jardín",
+    "cantidad": 2,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Transición A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MANUELA MARIN"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Transición B",
+    "cantidad": 3,
+    "area": "ZAGALITOS",
+    "responsable": "MARITZABEL VILLARRAGA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Primero A",
+    "cantidad": 4,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA MEZA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Primero B",
+    "cantidad": 2,
+    "area": "ZAGALITOS",
+    "responsable": "YENY GRISALES"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Primero C",
+    "cantidad": 2,
+    "area": "ZAGALITOS",
+    "responsable": "ELIZABETH OSPINA - LUISA MARIA RESTREPO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Segundo A",
+    "cantidad": 2,
+    "area": "ZAGALITOS",
+    "responsable": "YAKELINE GALEANO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Segundo B",
+    "cantidad": 2,
+    "area": "ZAGALITOS",
+    "responsable": "YOHANA VAÑEMCOA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Tercero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "BRAYAN RODRIGUEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Tercero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA ZAPATA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Tercero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "NATALIA OROZCO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Cuarto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SOFIA HIDALGO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Cuarto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CATERINE GUERRERO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Cuarto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LEONARDO ARANGO LOAIZA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Cuarto D",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "KAREN GALLEGO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Quinto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CLAUDIA ANDREA MORALES"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Mueble almacenamiento",
+    "salon": "Quinto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "MARIA ALEJANDRA AGUIRRE"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Sexto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "ALEJANDRO ALVAREZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Sexto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SANDRA MILENA GOMEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Sexto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "NICOL GARZÓN VASCO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Séptimo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DANIEL JIMENEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Séptimo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LIZETH HURTADO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Séptimo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DIANA YANETH VALENCIA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Octavo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "TABATA ZULUAGA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Octavo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LAURA ALEJANDRA GONZÁLEZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Octavo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CARLOS MARIO VILLALOBOS"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Noveno A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JHONATAN LINARES"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Noveno B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN MANUEL CASTRO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Noveno C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "VALENTINA CASTELLANOS"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Noveno D",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "STEFANY RAMIREZ"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Décimo A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "TATIANA BUITRAGO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Décimo B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "SEBASTIAN URBANO"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Décimo C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "ESTEFANIA GARCIA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Once A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "MIGUEL ANGEL AYALA"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Once B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN DAVID RENDON"
+  },
+  {
+    "categoria": "Mobiliario",
+    "nombre": "Caja celulares",
+    "salon": "Once C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "CAROLINA MIMENEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Párvulos",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Prejardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIA ALEJANDRA ARIAS"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Jardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Transición A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MANUELA MARIN"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Transición B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARITZABEL VILLARRAGA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Primero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA MEZA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Primero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YENY GRISALES"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Primero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ELIZABETH OSPINA - LUISA MARIA RESTREPO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Segundo A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YAKELINE GALEANO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Segundo B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YOHANA VAÑEMCOA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Tercero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "BRAYAN RODRIGUEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Tercero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA ZAPATA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Tercero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "NATALIA OROZCO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Cuarto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SOFIA HIDALGO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Cuarto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CATERINE GUERRERO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Cuarto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LEONARDO ARANGO LOAIZA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Cuarto D",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "KAREN GALLEGO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Quinto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CLAUDIA ANDREA MORALES"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Quinto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "MARIA ALEJANDRA AGUIRRE"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Quinto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CAMILO LONDOÑO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Sexto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "ALEJANDRO ALVAREZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Sexto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SANDRA MILENA GOMEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Sexto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "NICOL GARZÓN VASCO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Séptimo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DANIEL JIMENEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Séptimo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LIZETH HURTADO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Séptimo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DIANA YANETH VALENCIA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Octavo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "TABATA ZULUAGA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Octavo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LAURA ALEJANDRA GONZÁLEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Octavo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CARLOS MARIO VILLALOBOS"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Noveno A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JHONATAN LINARES"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Noveno B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN MANUEL CASTRO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Noveno C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "VALENTINA CASTELLANOS"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Noveno D",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "STEFANY RAMIREZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Décimo A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "TATIANA BUITRAGO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Décimo B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "SEBASTIAN URBANO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Décimo C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "ESTEFANIA GARCIA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Once A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "MIGUEL ANGEL AYALA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Once B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN DAVID RENDON"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Televisor - cable poder",
+    "salon": "Once C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "CAROLINA MIMENEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Párvulos",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Prejardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIA ALEJANDRA ARIAS"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Jardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Transición A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MANUELA MARIN"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Transición B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARITZABEL VILLARRAGA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Primero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA MEZA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Primero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YENY GRISALES"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Primero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ELIZABETH OSPINA - LUISA MARIA RESTREPO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Segundo A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YAKELINE GALEANO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Segundo B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YOHANA VAÑEMCOA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Tercero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "BRAYAN RODRIGUEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Tercero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA ZAPATA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Tercero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "NATALIA OROZCO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Cuarto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SOFIA HIDALGO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Cuarto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CATERINE GUERRERO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Cuarto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LEONARDO ARANGO LOAIZA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Cuarto D",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "KAREN GALLEGO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Quinto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CLAUDIA ANDREA MORALES"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Quinto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "MARIA ALEJANDRA AGUIRRE"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Quinto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CAMILO LONDOÑO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Sexto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "ALEJANDRO ALVAREZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Sexto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SANDRA MILENA GOMEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Sexto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "NICOL GARZÓN VASCO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Séptimo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DANIEL JIMENEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Séptimo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LIZETH HURTADO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Séptimo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DIANA YANETH VALENCIA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Octavo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "TABATA ZULUAGA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Octavo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LAURA ALEJANDRA GONZÁLEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Octavo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CARLOS MARIO VILLALOBOS"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Noveno A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JHONATAN LINARES"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Noveno B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN MANUEL CASTRO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Noveno C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "VALENTINA CASTELLANOS"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Noveno D",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "STEFANY RAMIREZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Décimo A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "TATIANA BUITRAGO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Décimo B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "SEBASTIAN URBANO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Décimo C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "ESTEFANIA GARCIA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Once A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "MIGUEL ANGEL AYALA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Once B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN DAVID RENDON"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Control TV",
+    "salon": "Once C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "CAROLINA MIMENEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Párvulos",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Prejardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIA ALEJANDRA ARIAS"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Jardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Transición A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MANUELA MARIN"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Transición B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARITZABEL VILLARRAGA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Primero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA MEZA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Primero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YENY GRISALES"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Primero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ELIZABETH OSPINA - LUISA MARIA RESTREPO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Segundo A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YAKELINE GALEANO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Segundo B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YOHANA VAÑEMCOA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Tercero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "BRAYAN RODRIGUEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Tercero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA ZAPATA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Tercero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "NATALIA OROZCO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Cuarto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SOFIA HIDALGO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Cuarto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CATERINE GUERRERO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Cuarto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LEONARDO ARANGO LOAIZA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Cuarto D",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "KAREN GALLEGO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Quinto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CLAUDIA ANDREA MORALES"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Quinto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "MARIA ALEJANDRA AGUIRRE"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Quinto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CAMILO LONDOÑO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Sexto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "ALEJANDRO ALVAREZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Sexto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SANDRA MILENA GOMEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Sexto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "NICOL GARZÓN VASCO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Séptimo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DANIEL JIMENEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Séptimo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LIZETH HURTADO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Séptimo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DIANA YANETH VALENCIA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Octavo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "TABATA ZULUAGA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Octavo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LAURA ALEJANDRA GONZÁLEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Octavo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CARLOS MARIO VILLALOBOS"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Noveno A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JHONATAN LINARES"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Noveno B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN MANUEL CASTRO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Noveno C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "VALENTINA CASTELLANOS"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Noveno D",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "STEFANY RAMIREZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Décimo A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "TATIANA BUITRAGO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Décimo B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "SEBASTIAN URBANO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Décimo C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "ESTEFANIA GARCIA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Once A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "MIGUEL ANGEL AYALA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Once B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN DAVID RENDON"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cable HDMI",
+    "salon": "Once C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "CAROLINA MIMENEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Extensión eléctrica",
+    "salon": "Primero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YENY GRISALES"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Extensión eléctrica",
+    "salon": "Tercero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA ZAPATA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Extensión eléctrica",
+    "salon": "Décimo A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "TATIANA BUITRAGO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Bafle",
+    "salon": "Transición A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MANUELA MARIN"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Bafle",
+    "salon": "Primero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ELIZABETH OSPINA - LUISA MARIA RESTREPO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Bafle",
+    "salon": "Segundo A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YAKELINE GALEANO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Bafle",
+    "salon": "Segundo B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YOHANA VAÑEMCOA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Bafle",
+    "salon": "Tercero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA ZAPATA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Bafle",
+    "salon": "Tercero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "NATALIA OROZCO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Bafle",
+    "salon": "Noveno A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JHONATAN LINARES"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Bafle",
+    "salon": "Noveno B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN MANUEL CASTRO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Bafle",
+    "salon": "Noveno D",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "STEFANY RAMIREZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Bafle",
+    "salon": "Décimo B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "SEBASTIAN URBANO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Bafle",
+    "salon": "Décimo C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "ESTEFANIA GARCIA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Bafle",
+    "salon": "Once A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "MIGUEL ANGEL AYALA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Bafle",
+    "salon": "Once B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN DAVID RENDON"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Bafle",
+    "salon": "Once C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "CAROLINA MIMENEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Párvulos",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Prejardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIA ALEJANDRA ARIAS"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Jardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Transición A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MANUELA MARIN"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Transición B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARITZABEL VILLARRAGA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Primero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA MEZA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Primero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YENY GRISALES"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Primero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ELIZABETH OSPINA - LUISA MARIA RESTREPO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Segundo A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YAKELINE GALEANO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Segundo B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YOHANA VAÑEMCOA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Tercero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "BRAYAN RODRIGUEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Tercero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA ZAPATA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Tercero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "NATALIA OROZCO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Cuarto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SOFIA HIDALGO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Cuarto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CATERINE GUERRERO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Cuarto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LEONARDO ARANGO LOAIZA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Cuarto D",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "KAREN GALLEGO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Quinto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CLAUDIA ANDREA MORALES"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Quinto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "MARIA ALEJANDRA AGUIRRE"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Quinto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CAMILO LONDOÑO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Sexto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "ALEJANDRO ALVAREZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Sexto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SANDRA MILENA GOMEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Sexto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "NICOL GARZÓN VASCO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Séptimo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DANIEL JIMENEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Séptimo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LIZETH HURTADO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Séptimo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DIANA YANETH VALENCIA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Octavo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "TABATA ZULUAGA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Octavo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LAURA ALEJANDRA GONZÁLEZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Octavo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CARLOS MARIO VILLALOBOS"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Noveno A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JHONATAN LINARES"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Noveno B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN MANUEL CASTRO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Noveno C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "VALENTINA CASTELLANOS"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Noveno D",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "STEFANY RAMIREZ"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Décimo B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "SEBASTIAN URBANO"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Décimo C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "ESTEFANIA GARCIA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Once A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "MIGUEL ANGEL AYALA"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Once B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN DAVID RENDON"
+  },
+  {
+    "categoria": "Tecnología",
+    "nombre": "Cámara",
+    "salon": "Once C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "CAROLINA MIMENEZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Párvulos",
+    "cantidad": 2,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Prejardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIA ALEJANDRA ARIAS"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Jardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Transición A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MANUELA MARIN"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Transición B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARITZABEL VILLARRAGA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Primero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA MEZA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Primero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YENY GRISALES"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Primero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ELIZABETH OSPINA - LUISA MARIA RESTREPO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Segundo A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YAKELINE GALEANO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Segundo B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YOHANA VAÑEMCOA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Tercero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "BRAYAN RODRIGUEZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Tercero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA ZAPATA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Tercero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "NATALIA OROZCO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Cuarto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SOFIA HIDALGO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Cuarto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CATERINE GUERRERO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Cuarto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LEONARDO ARANGO LOAIZA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Cuarto D",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "KAREN GALLEGO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Quinto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CLAUDIA ANDREA MORALES"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Quinto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "MARIA ALEJANDRA AGUIRRE"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Quinto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CAMILO LONDOÑO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Sexto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "ALEJANDRO ALVAREZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Sexto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SANDRA MILENA GOMEZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Sexto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "NICOL GARZÓN VASCO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Séptimo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DANIEL JIMENEZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Séptimo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LIZETH HURTADO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Séptimo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DIANA YANETH VALENCIA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Octavo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "TABATA ZULUAGA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Octavo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LAURA ALEJANDRA GONZÁLEZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Octavo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CARLOS MARIO VILLALOBOS"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Noveno A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JHONATAN LINARES"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Noveno B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN MANUEL CASTRO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Noveno C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "VALENTINA CASTELLANOS"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Noveno D",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "STEFANY RAMIREZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Décimo A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "TATIANA BUITRAGO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Décimo B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "SEBASTIAN URBANO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Décimo C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "ESTEFANIA GARCIA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Once A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "MIGUEL ANGEL AYALA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Once B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN DAVID RENDON"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Papelera",
+    "salon": "Once C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "CAROLINA MIMENEZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Párvulos",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Prejardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIA ALEJANDRA ARIAS"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Jardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Transición A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MANUELA MARIN"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Transición B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARITZABEL VILLARRAGA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Primero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA MEZA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Primero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YENY GRISALES"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Primero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ELIZABETH OSPINA - LUISA MARIA RESTREPO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Segundo A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YAKELINE GALEANO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Segundo B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YOHANA VAÑEMCOA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Tercero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "BRAYAN RODRIGUEZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Tercero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA ZAPATA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Tercero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "NATALIA OROZCO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Cuarto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SOFIA HIDALGO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Cuarto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CATERINE GUERRERO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Cuarto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LEONARDO ARANGO LOAIZA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Cuarto D",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "KAREN GALLEGO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Quinto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CLAUDIA ANDREA MORALES"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Quinto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "MARIA ALEJANDRA AGUIRRE"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Quinto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CAMILO LONDOÑO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Sexto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "ALEJANDRO ALVAREZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Sexto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SANDRA MILENA GOMEZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Sexto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "NICOL GARZÓN VASCO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Séptimo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DANIEL JIMENEZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Séptimo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LIZETH HURTADO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Séptimo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DIANA YANETH VALENCIA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Octavo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "TABATA ZULUAGA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Octavo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LAURA ALEJANDRA GONZÁLEZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Octavo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CARLOS MARIO VILLALOBOS"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Noveno A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JHONATAN LINARES"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Noveno B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN MANUEL CASTRO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Noveno C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "VALENTINA CASTELLANOS"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Noveno D",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "STEFANY RAMIREZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Décimo A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "TATIANA BUITRAGO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Décimo B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "SEBASTIAN URBANO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Décimo C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "ESTEFANIA GARCIA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Once A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "MIGUEL ANGEL AYALA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Once B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN DAVID RENDON"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Escoba",
+    "salon": "Once C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "CAROLINA MIMENEZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Párvulos",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Prejardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIA ALEJANDRA ARIAS"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Jardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Transición A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MANUELA MARIN"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Transición B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARITZABEL VILLARRAGA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Primero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA MEZA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Primero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YENY GRISALES"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Primero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ELIZABETH OSPINA - LUISA MARIA RESTREPO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Segundo A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YAKELINE GALEANO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Segundo B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "YOHANA VAÑEMCOA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Tercero A",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "BRAYAN RODRIGUEZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Tercero B",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "MARIANA ZAPATA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Tercero C",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "NATALIA OROZCO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Cuarto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SOFIA HIDALGO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Cuarto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CATERINE GUERRERO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Cuarto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LEONARDO ARANGO LOAIZA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Cuarto D",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "KAREN GALLEGO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Quinto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CLAUDIA ANDREA MORALES"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Quinto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "MARIA ALEJANDRA AGUIRRE"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Quinto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CAMILO LONDOÑO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Sexto A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "ALEJANDRO ALVAREZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Sexto B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "SANDRA MILENA GOMEZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Sexto C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "NICOL GARZÓN VASCO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Séptimo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DANIEL JIMENEZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Séptimo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LIZETH HURTADO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Séptimo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "DIANA YANETH VALENCIA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Octavo A",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "TABATA ZULUAGA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Octavo B",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "LAURA ALEJANDRA GONZÁLEZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Octavo C",
+    "cantidad": 1,
+    "area": "ZAGALES",
+    "responsable": "CARLOS MARIO VILLALOBOS"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Noveno A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JHONATAN LINARES"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Noveno B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN MANUEL CASTRO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Noveno C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "VALENTINA CASTELLANOS"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Noveno D",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "STEFANY RAMIREZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Décimo A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "TATIANA BUITRAGO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Décimo B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "SEBASTIAN URBANO"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Décimo C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "ESTEFANIA GARCIA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Once A",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "MIGUEL ANGEL AYALA"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Once B",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "JUAN DAVID RENDON"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Recogedor",
+    "salon": "Once C",
+    "cantidad": 1,
+    "area": "JUVAM",
+    "responsable": "CAROLINA MIMENEZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Trapero",
+    "salon": "Párvulos",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Trapero",
+    "salon": "Jardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Vasinillas",
+    "salon": "Párvulos",
+    "cantidad": 6,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Cambiador",
+    "salon": "Párvulos",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Comedores",
+    "salon": "Párvulos",
+    "cantidad": 2,
+    "area": "ZAGALITOS",
+    "responsable": "ALEJANDRA ECHEVERRY"
+  },
+  {
+    "categoria": "Aseo",
+    "nombre": "Comedores",
+    "salon": "Jardín",
+    "cantidad": 1,
+    "area": "ZAGALITOS",
+    "responsable": "VALENTINA PEREZ"
+  }
+]

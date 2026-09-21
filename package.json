@@ -1,0 +1,14 @@
+{
+  "name": "inventia-san-rafael",
+  "version": "1.0.0",
+  "description": "InventIA - Sistema inteligente de inventario con codigos QR - Instituto Tecnico San Rafael",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}

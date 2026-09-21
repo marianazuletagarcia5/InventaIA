@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>InventIA — Instituto Técnico San Rafael</title>
+<style>
+  :root{
+    --negro:#181818; --negro-suave:#2C2C2C;
+    --rojo:#A6192E; --rojo-fuerte:#7F1223; --rojo-claro:#E9B9C0;
+    --crema:#F7F7F7; --blanco:#FFFFFF;
+    --texto:#1A1A1A; --texto-suave:#5A5A5A; --linea:#DDDDDD;
+    --verde:#2E7D4F; --ambar:#B5822A; --gris:#8A8A8A;
+    --radio:6px; --sombra:0 2px 10px rgba(0,0,0,0.08);
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:'Segoe UI',Arial,Helvetica,sans-serif;background:var(--crema);color:var(--texto);}
+  h1,h2,h3,h4{font-family:Georgia,'Times New Roman',serif;font-weight:700;color:var(--negro);margin:0 0 .4em 0;}
+
+  #app{display:flex;min-height:100vh;}
+  .sidebar{width:230px;flex-shrink:0;background:var(--negro);color:var(--rojo-claro);display:flex;flex-direction:column;padding:22px 0;}
+  .brand{padding:0 20px 18px 20px;border-bottom:1px solid rgba(255,255,255,0.12);margin-bottom:14px;display:flex;flex-direction:column;align-items:flex-start;}
+  .brand img{width:46px;height:46px;object-fit:contain;margin-bottom:10px;background:#fff;border-radius:6px;padding:3px;}
+  .brand h1{font-size:16px;color:#fff;line-height:1.25;margin:0;}
+  .brand span{display:block;font-size:11px;color:var(--rojo-claro);letter-spacing:.06em;margin-top:4px;text-transform:uppercase;}
+  nav{flex:1;}
+  nav button{display:flex;align-items:center;gap:10px;width:100%;text-align:left;background:none;border:none;color:var(--rojo-claro);padding:11px 20px;font-size:14px;cursor:pointer;border-left:3px solid transparent;font-family:inherit;}
+  nav button:hover{background:rgba(255,255,255,0.06);}
+  nav button.activa{background:rgba(166,25,46,0.22);border-left:3px solid var(--rojo);color:#fff;font-weight:600;}
+  .sidebar-footer{padding:14px 20px 0 20px;border-top:1px solid rgba(255,255,255,0.12);font-size:11px;color:rgba(255,255,255,0.45);}
+
+  .main{flex:1;padding:28px 34px;max-width:1180px;}
+  .top-bar{margin-bottom:22px;}
+  .top-bar p{margin:2px 0 0 0;color:var(--texto-suave);font-size:13.5px;}
+  .vista{display:none;} .vista.activa{display:block;}
+
+  .tarjetas{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:16px;margin-bottom:26px;}
+  .tarjeta{background:#fff;border-radius:var(--radio);padding:18px;box-shadow:var(--sombra);border-top:3px solid var(--rojo);}
+  .tarjeta .num{font-family:Georgia,serif;font-size:30px;color:var(--negro);font-weight:700;}
+  .tarjeta .lbl{font-size:12.5px;color:var(--texto-suave);text-transform:uppercase;letter-spacing:.04em;}
+
+  .panel{background:#fff;border-radius:var(--radio);padding:22px 24px;box-shadow:var(--sombra);margin-bottom:22px;}
+  .panel h3{font-size:17px;margin-bottom:14px;border-bottom:1px solid var(--linea);padding-bottom:8px;}
+
+  .barra{display:flex;align-items:center;gap:10px;margin-bottom:10px;font-size:13.5px;}
+  .barra .nombre{width:120px;flex-shrink:0;color:var(--texto-suave);}
+  .barra .pista{flex:1;background:var(--crema);border-radius:4px;height:14px;overflow:hidden;border:1px solid var(--linea);}
+  .barra .relleno{height:100%;background:linear-gradient(90deg,var(--negro-suave),var(--rojo));}
+  .barra .cant{width:30px;text-align:right;font-weight:600;color:var(--negro);}
+
+  .btn{background:var(--negro);color:#fff;border:none;padding:9px 18px;border-radius:var(--radio);font-size:13.5px;cursor:pointer;font-weight:600;}
+  .btn:hover{background:var(--negro-suave);}
+  .btn.rojo{background:var(--rojo);} .btn.rojo:hover{background:var(--rojo-fuerte);}
+  .btn.linea{background:none;border:1px solid var(--linea);color:var(--texto);}
+  .btn.linea:hover{border-color:var(--rojo);color:var(--rojo);}
+  .btn.peligro{background:none;border:1px solid #8C1D26;color:#8C1D26;}
+  .btn.peligro:hover{background:#8C1D26;color:#fff;}
+  .btn.chico{padding:5px 10px;font-size:12px;}
+  .btn:disabled{opacity:.5;cursor:not-allowed;}
+
+  form .fila{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:14px;}
+  form .fila.ancho{grid-template-columns:1fr;}
+  form label{display:block;font-size:12.5px;color:var(--texto-suave);margin-bottom:5px;text-transform:uppercase;letter-spacing:.03em;}
+  form input,form select,form textarea{width:100%;padding:9px 10px;border:1px solid var(--linea);border-radius:4px;font-size:14px;font-family:inherit;background:var(--crema);}
+  form input:focus,form select:focus,form textarea:focus{outline:2px solid var(--rojo);border-color:var(--rojo);}
+  form textarea{resize:vertical;min-height:60px;}
+
+  table{width:100%;border-collapse:collapse;font-size:13.5px;}
+  th{text-align:left;background:var(--negro);color:var(--rojo-claro);padding:9px 10px;font-weight:600;font-size:12px;text-transform:uppercase;}
+  td{padding:9px 10px;border-bottom:1px solid var(--linea);}
+  tr:hover td{background:#FBF9F3;}
+  .chip{display:inline-block;padding:3px 9px;border-radius:20px;font-size:11.5px;font-weight:700;color:#fff;}
+  .chip.Bueno{background:var(--verde);} .chip.Regular{background:var(--ambar);}
+  .chip.Malo{background:#8C1D26;} .chip.De.Baja,.chip.DeBaja{background:var(--gris);}
+  .cod-tag{font-family:'Courier New',monospace;font-weight:700;color:var(--rojo-fuerte);}
+
+  .filtros{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:16px;}
+  .filtros input,.filtros select{padding:8px 10px;border:1px solid var(--linea);border-radius:4px;font-size:13.5px;background:#fff;}
+  .filtros input{flex:1;min-width:180px;}
+
+  .vacio{text-align:center;padding:40px 20px;color:var(--texto-suave);}
+  .vacio .icono{font-size:34px;margin-bottom:10px;}
+
+  .aviso{background:#FBEBEC;border:1px solid var(--rojo-claro);color:#6B1520;padding:12px 16px;border-radius:var(--radio);font-size:13px;margin-bottom:18px;}
+  .toast{position:fixed;bottom:24px;right:24px;background:var(--negro);color:#fff;padding:12px 20px;border-radius:var(--radio);box-shadow:0 4px 16px rgba(0,0,0,.2);font-size:13.5px;opacity:0;transform:translateY(10px);transition:.25s;pointer-events:none;z-index:50;}
+  .toast.mostrar{opacity:1;transform:none;}
+
+  .modal-fondo{position:fixed;inset:0;background:rgba(24,24,24,0.55);display:none;align-items:center;justify-content:center;z-index:40;padding:20px;}
+  .modal-fondo.activo{display:flex;}
+  .modal{background:#fff;border-radius:var(--radio);padding:26px 28px;max-width:460px;width:100%;box-shadow:0 10px 40px rgba(0,0,0,.25);}
+  .modal p{color:var(--texto-suave);font-size:14px;line-height:1.5;}
+  .modal .acciones{display:flex;justify-content:flex-end;gap:10px;margin-top:20px;}
+
+  .grid2{display:grid;grid-template-columns:1.3fr 1fr;gap:22px;}
+  .qr-caja{background:#fff;border:1px dashed var(--linea);border-radius:var(--radio);padding:20px;text-align:center;}
+  .qr-caja canvas{margin:0 auto;}
+  .qr-codigo-grande{font-family:'Courier New',monospace;font-size:22px;font-weight:700;color:var(--rojo-fuerte);margin-top:10px;}
+
+  #lector-camara{width:100%;max-width:420px;margin:0 auto;border-radius:var(--radio);overflow:hidden;background:#000;}
+  .resultado-escaneo{margin-top:18px;}
+  .movimiento{display:flex;justify-content:space-between;font-size:13px;padding:7px 0;border-bottom:1px solid var(--linea);color:var(--texto-suave);}
+  .movimiento b{color:var(--texto);}
+  .tag-tipo{font-size:10.5px;text-transform:uppercase;font-weight:700;padding:2px 7px;border-radius:10px;background:var(--crema);border:1px solid var(--linea);}
+
+  @media (max-width:900px){
+    #app{flex-direction:column;} .sidebar{width:100%;flex-direction:row;overflow-x:auto;padding:12px;}
+    .brand{display:none;} nav{display:flex;} .grid2{grid-template-columns:1fr;}
+    form .fila{grid-template-columns:1fr;} .main{padding:18px;}
+  }
+</style>
+</head>
+<body>
+<div id="app">
+
+  <aside class="sidebar">
+    <div class="brand">
+      <img src="/escudo.jpeg" alt="Escudo Instituto Técnico San Rafael">
+      <h1>InventIA</h1>
+      <span>Panel completo (administración)</span>
+    </div>
+    <nav id="nav">
+      <button data-vista="dashboard" class="activa">📊 Panel general</button>
+      <button data-vista="registrar">➕ Registrar recurso</button>
+      <button data-vista="escanear">📷 Escanear QR</button>
+      <button data-vista="inventario">📋 Inventario</button>
+      <button data-vista="reportes">📁 Reportes</button>
+      <button data-vista="respaldo">💾 Copia de seguridad</button>
+    </nav>
+    <div class="sidebar-footer">
+      <a href="/" style="color:var(--rojo-claro);text-decoration:none;font-weight:600;">← Volver a la app simple</a><br><br>
+      Trabajo de grado · Grado 11<br>Base de datos: <span id="estado-conexion">conectando…</span>
+    </div>
+  </aside>
+
+  <main class="main">
+
+    <!-- DASHBOARD -->
+    <section class="vista activa" id="vista-dashboard">
+      <div class="top-bar"><h2>Panel general</h2><p>Estado actual del inventario institucional gestionado por InventIA.</p></div>
+      <div class="tarjetas">
+        <div class="tarjeta"><div class="num" id="kpi-total">0</div><div class="lbl">Recursos registrados</div></div>
+        <div class="tarjeta"><div class="num" id="kpi-buenos">0</div><div class="lbl">En buen estado</div></div>
+        <div class="tarjeta"><div class="num" id="kpi-reposicion">0</div><div class="lbl">Necesitan reposición</div></div>
+        <div class="tarjeta"><div class="num" id="kpi-movimientos">0</div><div class="lbl">Escaneos y movimientos (últimos)</div></div>
+      </div>
+      <div class="grid2">
+        <div class="panel"><h3>Recursos por área</h3><div id="grafico-area"></div></div>
+        <div class="panel"><h3>Recursos por estado</h3><div id="grafico-estado"></div></div>
+      </div>
+      <div class="grid2">
+        <div class="panel"><h3>Recursos por categoría</h3><div id="grafico-categoria"></div></div>
+        <div class="panel">
+          <h3>Trazabilidad reciente</h3>
+          <div id="lista-movimientos"></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- REGISTRAR -->
+    <section class="vista" id="vista-registrar">
+      <div class="top-bar"><h2>Registrar nuevo recurso</h2><p>Al guardar, el sistema asigna un código único y genera su etiqueta QR.</p></div>
+
+      <div class="panel">
+        <form id="form-recurso">
+          <input type="hidden" id="f-id">
+          <div class="fila">
+            <div><label>Nombre del recurso *</label><input type="text" id="f-nombre" required placeholder="Ej: Videobeam Epson, Silla rimax"></div>
+            <div><label>Categoría *</label>
+              <select id="f-categoria" required>
+                <option>Mobiliario</option><option>Equipo tecnológico</option><option>Infraestructura</option>
+                <option>Aseo</option><option>Equipo deportivo</option><option>Herramienta</option>
+                <option>Material didáctico</option><option>Otro</option>
+              </select>
+            </div>
+          </div>
+          <div class="fila">
+            <div><label>Área / dependencia</label>
+              <select id="f-area">
+                <option value="">Sin área específica</option>
+                <option>ZAGALITOS</option><option>ZAGALES</option><option>JUVAM</option><option>ADMINISTRATIVO</option>
+              </select>
+            </div>
+            <div><label>Ubicación / salón *</label><input type="text" id="f-ubicacion" required placeholder="Ej: Aula 301, Transición A"></div>
+          </div>
+          <div class="fila">
+            <div><label>Estado *</label>
+              <select id="f-estado" required><option>Bueno</option><option>Regular</option><option>Malo</option><option>De Baja</option></select>
+            </div>
+            <div><label>Cantidad</label><input type="number" id="f-cantidad" min="1" value="1"></div>
+          </div>
+          <div class="fila">
+            <div><label>Responsable</label><input type="text" id="f-responsable" placeholder="Nombre del encargado"></div>
+            <div><label>Frecuencia de uso</label>
+              <select id="f-frecuencia"><option>Alta</option><option selected>Media</option><option>Baja</option></select>
+            </div>
+          </div>
+          <div class="fila">
+            <div><label>Fecha de adquisición</label><input type="date" id="f-fecha"></div>
+            <div></div>
+          </div>
+          <div class="fila ancho"><div><label>Observaciones</label><textarea id="f-observaciones"></textarea></div></div>
+          <div style="display:flex;gap:10px;">
+            <button type="submit" class="btn rojo">Guardar y generar QR</button>
+            <button type="button" class="btn linea" id="btn-cancelar-edicion" style="display:none;">Cancelar edición</button>
+          </div>
+        </form>
+      </div>
+
+      <div class="panel" id="panel-qr-resultado" style="display:none;">
+        <h3>Etiqueta QR generada</h3>
+        <div class="qr-caja">
+          <div id="qr-canvas-contenedor"></div>
+          <div class="qr-codigo-grande" id="qr-codigo-texto"></div>
+          <p style="color:var(--texto-suave);font-size:13px;">Imprime esta etiqueta y pégala sobre el recurso físico correspondiente.</p>
+          <button class="btn linea" id="btn-imprimir-qr">Imprimir etiqueta</button>
+        </div>
+      </div>
+    </section>
+
+    <!-- ESCANEAR -->
+    <section class="vista" id="vista-escanear">
+      <div class="top-bar"><h2>Escanear código QR</h2><p>Usa la cámara del dispositivo para consultar o actualizar un recurso al instante.</p></div>
+      <div class="panel">
+        <div id="lector-camara"></div>
+        <div style="text-align:center;margin-top:14px;">
+          <button class="btn rojo" id="btn-iniciar-camara">Activar cámara</button>
+          <button class="btn linea" id="btn-detener-camara" style="display:none;">Detener</button>
+        </div>
+        <div class="fila ancho" style="margin-top:16px;">
+          <div><label>O escribe el código manualmente</label>
+            <div style="display:flex;gap:10px;">
+              <input type="text" id="codigo-manual" placeholder="Ej: INV-2026-0001" style="flex:1;">
+              <button class="btn linea" id="btn-buscar-manual">Buscar</button>
+            </div>
+          </div>
+        </div>
+        <div class="resultado-escaneo" id="resultado-escaneo"></div>
+      </div>
+    </section>
+
+    <!-- INVENTARIO -->
+    <section class="vista" id="vista-inventario">
+      <div class="top-bar"><h2>Inventario general</h2><p>Consulta y administra todos los recursos registrados.</p></div>
+      <div class="panel">
+        <div class="filtros">
+          <input type="text" id="buscar" placeholder="Buscar por nombre, código, ubicación o responsable...">
+          <select id="filtro-area">
+            <option value="">Todas las áreas</option>
+            <option>ZAGALITOS</option><option>ZAGALES</option><option>JUVAM</option><option>ADMINISTRATIVO</option>
+          </select>
+          <select id="filtro-categoria">
+            <option value="">Todas las categorías</option>
+            <option>Mobiliario</option><option>Equipo tecnológico</option><option>Infraestructura</option>
+            <option>Aseo</option><option>Equipo deportivo</option><option>Herramienta</option>
+            <option>Material didáctico</option><option>Otro</option>
+          </select>
+          <select id="filtro-estado">
+            <option value="">Todos los estados</option>
+            <option>Bueno</option><option>Regular</option><option>Malo</option><option>De Baja</option>
+          </select>
+        </div>
+        <div id="contenedor-tabla"></div>
+      </div>
+    </section>
+
+    <!-- REPORTES -->
+    <section class="vista" id="vista-reportes">
+      <div class="top-bar"><h2>Reportes</h2><p>Exporta el inventario y su trazabilidad en formato CSV.</p></div>
+      <div class="panel">
+        <h3>Exportar inventario completo</h3>
+        <button class="btn rojo" id="btn-exportar-todo">Descargar inventario (.csv)</button>
+      </div>
+    </section>
+
+    <!-- RESPALDO -->
+    <section class="vista" id="vista-respaldo">
+      <div class="top-bar"><h2>Copia de seguridad</h2><p>Guarda y restaura la información del sistema.</p></div>
+      <div class="aviso"><b>Nota:</b> la información ya se guarda de forma permanente en la base de datos del servidor. Se recomienda además descargar copias periódicas como respaldo adicional.</div>
+      <div class="panel"><h3>Descargar copia de seguridad</h3><button class="btn rojo" id="btn-exportar-json">Descargar copia (.json)</button></div>
+      <div class="panel"><h3>Restaurar copia de seguridad</h3><input type="file" id="input-importar-json" accept="application/json"></div>
+    </section>
+
+  </main>
+</div>
+
+<div class="modal-fondo" id="modal-confirmar">
+  <div class="modal">
+    <h3 style="font-size:16px;">Eliminar recurso</h3>
+    <p id="modal-texto">¿Seguro que deseas eliminar este recurso del inventario?</p>
+    <div class="acciones">
+      <button class="btn linea" id="modal-cancelar">Cancelar</button>
+      <button class="btn peligro" id="modal-confirmar-btn">Eliminar</button>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script src="https://unpkg.com/qrcode@1.5.3/build/qrcode.min.js"></script>
+<script src="https://unpkg.com/html5-qrcode@2.3.8/html5-qrcode.min.js"></script>
+<script src="/admin.js"></script>
+</body>
+</html>
